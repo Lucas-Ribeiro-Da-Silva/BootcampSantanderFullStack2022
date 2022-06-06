@@ -1,0 +1,19 @@
+Comandos úteis de Windows e Linux para o git:
+
+Ls = lista todos os arquivos do diretório, no Windows usar “dir”
+Cd = acessa uma pasta
+Mkdir = cria um diretório
+Rm -rf = remove um arquivo ou diretório
+Mv = move ou renomeia arquivos ou diretórios
+Pwd = mostra o caminho inteiro do diretório atual
+.. = descer um nível
+Clear = limpar o terminal
+Echo (algo) = esse algo é impresso
+Echo (algo) > (algo).(extensão) = criação de arquivo
+Setas alternam entre comandos já usados
+Limpar terminal = cls (clear screen) no Windows, no Linux é clear ou ctrl+L
+TAB faz o autocompletar no Windows
+Del (algo) = deletar ARQUIVOS
+Rmdir (algo) /S /Q = apagar pastas e seu conteúdo (no Windows, No Linux usa rm -rf)
+Obs.: R de recursivo (deletar todas as pastas de dentro também), F(não pergunta se realmente quero apagar)
+
