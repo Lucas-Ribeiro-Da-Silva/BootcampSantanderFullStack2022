@@ -8,6 +8,8 @@
 }
 
 body {
+    background-image: url(/img/background_instagram.jpg);
+    background-size: cover;
     width: 100%;
     min-height: 100vh;
     background-color: rgb(243, 243, 243);
@@ -53,7 +55,7 @@ body {
     background-color: #ffffff;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgray;
+    border: 3px solid #c308a7;
 }
 
 .group:nth-child(1) {
@@ -103,6 +105,10 @@ body {
     justify-content: center;
     width: 100%;
     padding: 1.3rem 0;
+}
+
+.get-app{
+    font-weight: bold;
 }
 
 .download {
