@@ -12,7 +12,8 @@ Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
 
 O resultado esperado é parecido com este:
 
-![Exemplo de to-do list](assets/exemplo.png)
+![image](https://user-images.githubusercontent.com/101514539/176980902-ec894ecd-68c7-4d7c-8c2a-57f357e12c1d.png)
+
 
 ## Bons estudos!
 
