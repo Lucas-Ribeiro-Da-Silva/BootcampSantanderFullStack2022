@@ -1,14 +1,15 @@
 // solução 1
 function verificaPalindromo(string) {
-	if (!string) return;
-	console.log(string === string.split('').reverse().join(''));
+	if (!string) return "string não encontrada";
+	return (string === string.split('').reverse().join(''));
 }
-verificaPalindromo('cat');
+let string = "abba"
+console.log(verificaPalindromo(string));
 
 // solução 2
 
 function varificaPalindromo2(string) {
-	if (!string) return;
+	if (!string) return console.log("string não encontrada");
 	if (!string.length) return;
 
 	for (var i = 0; i < string.length / 2; i++) {
@@ -19,4 +20,4 @@ function varificaPalindromo2(string) {
 	return console.log(true);
 }
 
-varificaPalindromo2('asa');
+varificaPalindromo2('abba');
